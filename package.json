@@ -1,0 +1,20 @@
+{
+  "name": "supabaselab",
+  "version": "1.0.0",
+  "description": "A basic Node.js web application",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node main.js"
+  },
+  "keywords": [
+    "nodejs",
+    "web"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.98.0",
+    "express": "^4.18.2"
+  }
+}
